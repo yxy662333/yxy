@@ -1,18 +1,3 @@
-# yxy
-Research data and code
-your-repo/
-  README.md
-  CITATION.cff
-  LICENSE
-  firmware/
-    keil_project/
-      *.uvprojx
-      *.uvoptx
-      Source/
-      Inc/
-      Drivers/
-      Middlewares/
-  data/
-    raw/               
-    processed/
-    README.md
+This repository contains:
+1) firmware_keil/: Keil uVision project and source code for the wearable device.
+2) data_raw/: raw experimental data used in the manuscript figures.
